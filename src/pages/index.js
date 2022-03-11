@@ -1,11 +1,11 @@
 import React from "react";
 // markup
-const IndexPage = () => {
+function IndexPage() {
   return (
     <main>
-      <p>Clean Project</p>
+      <h1 className="text-7xl font-bold underline">Hello world!</h1>
     </main>
   );
-};
+}
 
 export default IndexPage;
