@@ -1,9 +1,8 @@
 import { CheckIcon, SelectorIcon } from "@heroicons/react/solid";
 import { Listbox, Transition } from "@headlessui/react";
+import React, { Fragment } from "react";
 
-import { Fragment } from "react";
 import PropTypes from "prop-types";
-import React from "react";
 
 const apiEndpoints = [
   { text: "/api/1" },

@@ -1,6 +1,6 @@
-import { Headers } from "node-fetch";
+import fetch, { Headers } from "node-fetch";
+
 import { classifyTaks } from "../../utils/classifyTaks";
-import fetch from "node-fetch";
 import { sortTasks } from "../../utils/sortTasks";
 
 export default async function fetchTasks(req, res) {
