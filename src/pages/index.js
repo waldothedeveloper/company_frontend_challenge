@@ -1,10 +1,12 @@
+import Layout from "../components/layout";
 import React from "react";
-// markup
+import StatusDisplay from "../components/status_tracker_feature/statusDisplay";
+
 function IndexPage() {
   return (
-    <main>
-      <h1 className="text-7xl font-bold underline">Hello world!</h1>
-    </main>
+    <Layout>
+      <StatusDisplay />
+    </Layout>
   );
 }
 
