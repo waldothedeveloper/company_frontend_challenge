@@ -8,15 +8,15 @@ NOTE: Pros & Cons are listed at the end of this document.
 
 This project makes use of the following tools and technologies:
 
-● Gatsby JS Framework
-● SWR from Vercel/NextJS
-● Express-Like Serverless Functions
-● TailwindCSS
-● @HeadlessUI/React
-● Eslint
-● Prettier
-● Jest
-● React Testing Library
+- Gatsby JS Framework
+- SWR from Vercel/NextJS
+- Express-Like Serverless Functions
+- TailwindCSS
+- @HeadlessUI/React
+- Eslint
+- Prettier
+- Jest
+- React Testing Library
 
 ## How to run this project
 
